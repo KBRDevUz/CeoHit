@@ -1,4 +1,4 @@
-#Salom! 👋 Men Khamroqulov Doniyor (KBRDev)<img src="https://hyperteo.uz/logo.png" width="40" height="40" style="vertical-align:middle;">
+#Salom! 👋 Men Khamroqulov Doniyor (KBRDev)<img src="https://hyperteo.uz/logo.png" width="15" height="15" style="vertical-align:middle;">
 
 
 **Mine-imator’ning o‘zbek tilidagi muallifi** va **Back-end dasturchiman**  
