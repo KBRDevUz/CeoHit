@@ -34,4 +34,7 @@ Sayt: [https://hyperteo.uz/cb](https://hyperteo.uz/cb)
 Kerak bo‘lsa yozing – 5-10 daqiqada javob beraman  
 Hammasi bepul, samimiy va ishonchli 🇺🇿🔥
 
+![Live Time](https://api.hyperteo.uz/v1/time/index.php)
+
+
 Birga zo‘r narsalar yaratalik! 🚀
