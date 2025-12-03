@@ -1,4 +1,5 @@
-# Salom! 👋 Men Khamroqulov Doniyor (KBR Dev)
+#Salom! 👋 Men Khamroqulov Doniyor (KBRDev)<img src="https://hyperteo.uz/logo.png" width="40" height="40" style="vertical-align:middle;">
+
 
 **Mine-imator’ning o‘zbek tilidagi muallifi** va **Back-end dasturchiman**  
 Birinchi bo‘lib Mine-imator Community Build’ni to‘liq o‘zbekchaga tarjima qildim, watermark’ni olib tashladim va bepul upgrade keylarni taqdim etyapman.
@@ -33,8 +34,5 @@ Sayt: [https://hyperteo.uz/cb](https://hyperteo.uz/cb)
 
 Kerak bo‘lsa yozing – 5-10 daqiqada javob beraman  
 Hammasi bepul, samimiy va ishonchli 🇺🇿🔥
-
-![Live Time](https://api.hyperteo.uz/v1/time/index.php)
-
 
 Birga zo‘r narsalar yaratalik! 🚀
